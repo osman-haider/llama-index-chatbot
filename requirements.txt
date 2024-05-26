@@ -1,0 +1,10 @@
+llama-index
+pypdf
+sentence_transformers
+llama-index-finetuning
+llama-index-llms-openai
+llama-index-embeddings-huggingface
+llama-index-readers-elasticsearch
+llama-index-vector-stores-opensearch
+python-dotenv
+streamlit
